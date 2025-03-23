@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-    <reactor.version>3.1.8.RELEASE</reactor.version>
+    <reactor.version>3.7.3</reactor.version>
     <assertj.version>3.9.0</assertj.version>
     <netcrusher.version>0.10</netcrusher.version>
 
@@ -116,7 +116,7 @@
           <doctitle>Aerospike Reactor Java Client</doctitle>
           <show>public</show>
           <splitindex>true</splitindex>
-          <bottom>Copyright &#169; 2012&#x2013;{currentYear} Aerospike, Inc. All rights reserved.</bottom>
+          <bottom>Copyright © 2012–{currentYear} Aerospike, Inc. All rights reserved.</bottom>
           <sourcepath>${project.basedir}/src/main/java</sourcepath>
         </configuration>
       </plugin>
